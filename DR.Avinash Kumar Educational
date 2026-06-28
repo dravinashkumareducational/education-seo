@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DR. Avinash Kumar Educational & Charitable Trust</title>
+<meta name="description" content="CMS & ED Course, Rural Medical Practitioner Course, Electro Homeopathy Course, Biochemic Medicine Course and Alternative Medicine Course across India.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>DR. Avinash Kumar Educational & Charitable Trust</h1>
+<p>Professional Medical & Alternative Medicine Education</p>
+</header>
+
+<main>
+<h2>Our Courses</h2>
+
+<ul>
+<li>CMS & ED Course</li>
+<li>Rural Medical Practitioner (RMP) Course</li>
+<li>Electro Homeopathy Course</li>
+<li>Biochemic Medicine Course</li>
+<li>Alternative Medicine Course</li>
+</ul>
+
+<p>Welcome to our education portal. Location-wise course pages for all India will be added gradually.</p>
+</main>
+
+<footer>
+<p>© 2026 DR. Avinash Kumar Educational & Charitable Trust</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
